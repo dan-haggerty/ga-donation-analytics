@@ -3,4 +3,4 @@ This is a repository of code solutions that can be used with Google Analytics to
 
 Code credited to Jim Gianognlio at [Lunametrics](http://www.lunametrics.com/).
 
-README by Dan Haggerty at Public Broadcasting Service. 
+README by Dan Haggerty at Public Broadcasting Service (PBS). 
