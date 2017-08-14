@@ -4,7 +4,8 @@ dataLayer.push({
     "ecommerce": {
      'purchase': {
       'actionField': {
-        'id': '[transaction ID]',                         
+        'id': '[transaction ID]',
+	'revenue': '[donation amount]'                        
       },
       'products': [{                            
         'name': '[donation type]',     
